@@ -2,7 +2,7 @@
 
 This project analyses the case of Sophie, a tourism student conducting research on the proliferation of tourist apartments in a historic coastal neighbourhood. It focuses on the collection, classification, and management of data from multiple public and private sources, including government open data portals, utility companies, and transport providers. The study explores open data standards, data quality classification, and privacy considerations in handling sensitive information. Objectives include understanding how effective data management supports research reliability, transparency, and informed urban planning decisions. Overall, the project highlights the importance of data governance and ethical practices in academic and professional data-driven research.
 
-## Sophie's Case: Backgorund
+## Sophie's Case: Background
 Sophie is a university student in her final year of a Bachelor's degree in Tourism. She has to complete her Final Degree Project on the proliferation of tourist apartments in a historic neighborhood of a coastal city. Sophie is 700 km away from the coastal city and, to gather information, she must rely on data available on the internet from governmental entities, public organizations, and private companies. Additionally, she verifies this data through phone calls or virtual meetings with the managers.
  
 She begins to gather information and discovers that many organizations have an online space called Open Data where they publish reports, statistics, and data on various subjects. On the website of the local city council, she finds a wealth of important information.
